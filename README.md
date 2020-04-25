@@ -24,3 +24,5 @@ The following performances has been done in this time series data:
         <li>Validating Forecasts (static and dynamic forecasts, MSE, R2 score)</li>
         <li>Producing and Visualizing Forecasts</li>
       </ul>
+
+Jupyter Notebook for Python 3 was used to permorm analysis.
