@@ -1,4 +1,4 @@
-# Crossroad Traffic Time Series Exploratory Data Analysis
+# Crossroad Traffic Time Series Analysis, ARIMA
 
 Crossroad traffic datasets contains data of detector occupancy, traffic volume and average speed during the year by hour.
 The following performances has been done in this time series data:
