@@ -1,5 +1,7 @@
 # Crossroad Traffic Time Series Analysis, ARIMA
 
+## About This Repo
+
 Crossroad traffic datasets contains data of detector occupancy, traffic volume and average speed during the year by hour.
 The following performances has been done in this time series data:
 
@@ -24,5 +26,8 @@ The following performances has been done in this time series data:
         <li>Validating Forecasts (static and dynamic forecasts, MSE, R2 score)</li>
         <li>Producing and Visualizing Forecasts</li>
       </ul>
+
+## The Jupyter Notebook
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
 Jupyter Notebook for Python 3 was used to perform analysis.
